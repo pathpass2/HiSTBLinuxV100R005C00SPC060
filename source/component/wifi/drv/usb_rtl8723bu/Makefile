@@ -1,1 +1,0 @@
-obj-y += rtl8723BU_WiFi_linux_v4.4.2_18635.20161006_BTCOEX20151228-664a/

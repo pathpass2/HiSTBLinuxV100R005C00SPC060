@@ -1,3 +1,0 @@
-#!/bin/sh -e
-
-chown -R stb:gstb /sys/power/state

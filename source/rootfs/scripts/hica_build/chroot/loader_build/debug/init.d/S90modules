@@ -1,5 +1,0 @@
-#!/bin/sh
-
-cd /kmod
-./load
-cd -

@@ -1,2 +1,0 @@
-#!/bin/sh
-mknod /dev/null    c 1   3
