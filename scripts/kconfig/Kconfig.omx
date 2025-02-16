@@ -1,4 +1,0 @@
-menuconfig HI_OMX_SUPPORT
-    bool "OMX Support"
-    default n if LINUX_PRODUCT
-    default y if ANDROID_PRODUCT
