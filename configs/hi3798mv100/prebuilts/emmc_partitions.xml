@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<Partition_Info>
+<Part Sel="1" PartitionName="fastboot" FlashType="emmc" FileSystem="none" Start="0" Length="1M" SelectFile="fastboot.bin"/>
+<Part Sel="1" PartitionName="bootargs" FlashType="emmc" FileSystem="none" Start="1M" Length="1M" SelectFile="bootargs.bin"/>
+<Part Sel="1" PartitionName="kernel" FlashType="emmc" FileSystem="none" Start="2M" Length="50M" SelectFile="hi_kernel.bin"/>
+<Part Sel="1" PartitionName="ubuntu" FlashType="emmc" FileSystem="ext3/4" Start="52M" Length="7404M" SelectFile="Ubuntu-20.04.4-armhf-hi3798mv100-20220403-b426c.img"/>
+</Partition_Info>
