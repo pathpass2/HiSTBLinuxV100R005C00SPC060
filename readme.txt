@@ -1,3 +1,4 @@
+海思3798mv100的默认配置已经配置docker，并移植rtl8723bu，编译为模块。适用咪咕100盒子(rtl8723bu的WiFi)
 Term:
 	$sdk_path: SDK code path
 	$chip_type: chip type
