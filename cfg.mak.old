@@ -1,7 +1,7 @@
 #
 # Automatically generated make config: don't edit
 # SDK version: KERNELVERSION
-# Thu Sep  4 09:36:46 2025
+# Tue Jun 19 17:13:33 2018
 #
 
 #
@@ -1333,22 +1333,6 @@ CFG_HI_OPENSSL_SUPPORT=y
 # CFG_HI_BLUETOOTH_SUPPORT is not set
 # CFG_HI_DRM_SUPPORT is not set
 CFG_HI_VP_SUPPORT=y
-
-#
-# FFmpeg Config
-#
-CFG_HI_FFMPEF_SUPPORT=y
-
-#
-# PCRE Config
-#
-CFG_HI_PCRE_SUPPORT=y
-# CFG_HI_PCRE2_SUPPORT is not set
-
-#
-# WFB-NG Config
-#
-CFG_HI_WFB_NG_SUPPORT=y
 # CFG_HI_TEE_SUPPORT is not set
 
 #
